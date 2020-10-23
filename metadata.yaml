@@ -1,5 +1,8 @@
 _repo: The-Kernel-and-the-Husk-Letters-on-Spiritual-Christianity_63510
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63510-h/images/cover.jpg
 creator:
   author:
     agent_name: Abbott, Edwin Abbott
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/64
     wikipedia: https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63510#The-Kernel-and-the-Husk-Letters-on-Spiritual-Christianity
 gutenberg_issued: '2020-10-20'
 gutenberg_type: Text
 identifiers:
